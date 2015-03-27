@@ -1,4 +1,4 @@
-###React - Slideout.js
+###Starter - React - Slideout.js
 
 simple starter project react + react-router + slideout.js 
 
